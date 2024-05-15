@@ -2,7 +2,7 @@
 
 This is a Pattern Recognition Mini Project that contains three notebooks implementing facial expression recognition using different deep learning models.
 
-## [CNN_Based_Facial_Expression.ipynb](CNN_Based_Facial_Expression.ipynb)
+## [CNN_Based_Facial_Expression.ipynb](CNN_BASED_Facial_Expression.ipynb)
 
 This notebook implements a Convolutional Neural Network (CNN) for facial expression recognition. It includes code for downloading and extracting data, preprocessing images, and training the CNN model. You can run this notebook directly in Google Colab by clicking [here](https://colab.research.google.com/github/Priyansh012/CECS550-Facial-Expression-Recognition/blob/main/CNN_BASED_Facial_Expression.ipynb).
 
