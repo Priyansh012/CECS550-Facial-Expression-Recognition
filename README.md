@@ -12,7 +12,7 @@ This notebook uses the MobileNet model, a pre-trained deep learning model, for f
 
 ## [VGG19_Based_Facial_Expression.ipynb](VGG19_Based_Facial_Expression.ipynb)
 
-This notebook uses the VGG19 model for facial expression recognition. It includes similar code to the previous notebooks but may contain different parameters or additional steps. You can run this notebook directly in Google Colab by clicking [here](https://colab.research.google.com/github/Priyansh012/CECS550-Facial-Expression-Recognition/blob/main/Facial_Expression_Recognition_Using_VGG19.ipynb).
+This notebook uses the VGG19 model for facial expression recognition. It includes similar code to the previous notebooks but may contain different parameters or additional steps. You can run this notebook directly in Google Colab by clicking [here]([https://colab.research.google.com/github/Priyansh012/CECS550-Facial-Expression-Recognition/blob/main/Facial_Expression_Recognition_Using_VGG19.ipynb](https://colab.research.google.com/github/Priyansh012/CECS550-Facial-Expression-Recognition/blob/main/VGG19_Based_Facial_Expression.ipynb)).
 
 ## Data
 
